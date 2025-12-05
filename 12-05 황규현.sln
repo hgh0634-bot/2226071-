@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{19FEA193-FBDB-7282-6B6B-E82432E554CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_KeyDoorSystem", "CodeMonkey_KeyDoorSystem.csproj", "{C0B06A07-9FAB-E37D-1C33-E4614CC92A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_KeyDoorSystem_Editor", "CodeMonkey_KeyDoorSystem_Editor.csproj", "{E952B80E-C3A6-968F-C7AC-F6210942EAE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19FEA193-FBDB-7282-6B6B-E82432E554CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FEA193-FBDB-7282-6B6B-E82432E554CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FEA193-FBDB-7282-6B6B-E82432E554CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FEA193-FBDB-7282-6B6B-E82432E554CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B06A07-9FAB-E37D-1C33-E4614CC92A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B06A07-9FAB-E37D-1C33-E4614CC92A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B06A07-9FAB-E37D-1C33-E4614CC92A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B06A07-9FAB-E37D-1C33-E4614CC92A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E952B80E-C3A6-968F-C7AC-F6210942EAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E952B80E-C3A6-968F-C7AC-F6210942EAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E952B80E-C3A6-968F-C7AC-F6210942EAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E952B80E-C3A6-968F-C7AC-F6210942EAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
